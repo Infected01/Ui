@@ -46,7 +46,7 @@ local function _icon(name: string?): string?
 end
 
 -- ========================================================
--- TEMA WARNA DARK GREEN
+-- UI CREATE 
 -- ========================================================
 local T = {
 	BG         = Color3.fromRGB(10, 16, 12),      -- Background utama (Very Dark Green)
